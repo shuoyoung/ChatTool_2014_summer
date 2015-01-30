@@ -1,5 +1,0 @@
-code	代码
-doc	文档
-books	资料
-
-http://172.16.30.6:80/svn
